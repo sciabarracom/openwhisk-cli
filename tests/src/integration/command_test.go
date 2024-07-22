@@ -23,7 +23,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/apache/openwhisk-cli/tests/src/integration/common"
+	"github.com/sciabarracom/openwhisk-cli/tests/src/integration/common"
 	"github.com/stretchr/testify/assert"
 )
 

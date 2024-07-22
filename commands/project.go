@@ -18,10 +18,10 @@
 package commands
 
 import (
-	"github.com/apache/openwhisk-cli/wski18n"
-	"github.com/apache/openwhisk-wskdeploy/cmd"
-	"github.com/apache/openwhisk-wskdeploy/utils"
-	wskdeploy_wski18n "github.com/apache/openwhisk-wskdeploy/wski18n"
+	"github.com/sciabarracom/openwhisk-cli/wski18n"
+	"github.com/sciabarracom/openwhisk-wskdeploy/cmd"
+	"github.com/sciabarracom/openwhisk-wskdeploy/utils"
+	wskdeploy_wski18n "github.com/sciabarracom/openwhisk-wskdeploy/wski18n"
 	"github.com/spf13/cobra"
 )
 
