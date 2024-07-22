@@ -26,7 +26,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/apache/openwhisk-cli/wski18n"
+	"github.com/sciabarracom/openwhisk-cli/wski18n"
 	"github.com/apache/openwhisk-client-go/whisk"
 
 	"encoding/json"

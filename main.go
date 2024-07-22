@@ -22,8 +22,8 @@ import (
 	goi18n "github.com/nicksnyder/go-i18n/i18n"
 	"os"
 
-	"github.com/apache/openwhisk-cli/commands"
-	"github.com/apache/openwhisk-cli/wski18n"
+	"github.com/sciabarracom/openwhisk-cli/commands"
+	"github.com/sciabarracom/openwhisk-cli/wski18n"
 	"github.com/apache/openwhisk-client-go/whisk"
 )
 
